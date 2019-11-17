@@ -1,24 +1,6 @@
-# alexmerced
+### Alex Merced's Vue Front-End
 
-## Project setup
-```
-npm install
-```
+this is another front-end project where I am taking the headless blog I created with contentful.com and creating a variety of front-ends for it using different technologies. To complete this I had to use Vue loops, lifecycle methods, components, props and data. I used fetch and async/await to grab data from the API store it into the app components data then send the individual records as props down to the card component.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Find the link to all five versions of this blog at:
+https://www.linkedin.com/pulse/creating-blogs-learning-web-development-alex-merced/
